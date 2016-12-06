@@ -36,6 +36,18 @@ Utilizaremos o Composer para instalar o Laravel, para tanto utilize o comando:
 ```
 composer global require "laravel/installer"
 ```
+Em seguida basta executar o artisan com o comando:
+
+```
+php artisan serve
+```
+
+Por fim é necessário fazer o auto-dump:
+
+```
+composer dump-autoload
+```
+
 Após isso o ambiente já está configurado e o sistema funcional.
 
 ##Utilização do Crawler
