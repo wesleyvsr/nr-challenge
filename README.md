@@ -34,8 +34,10 @@ Já para a instalação do Laravel basta seguir o tutorial contido em: https://l
 Utilizaremos o Composer para instalar o Laravel, para tanto utilize o comando:
 
 ```
-composer global require "laravel/installer"
+composer require "laravel/installer"
 ```
+
+Agora execute o composer na pasta do nr-challenge.
 Em seguida basta executar o artisan com o comando:
 
 ```
