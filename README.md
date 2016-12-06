@@ -48,6 +48,6 @@ Foram implementadas buscas de informações em duas das páginas sugeridas:
 Para executar o crawler em cada um dos sites basta acessar os caminhos:
 
 ```
-caminho_do_projeto/public/sebrae
-caminho_do_projeto/public/gdf
+localhost/nr-challenge/public/sebrae
+localhost/nr-challenge/public/gdf
 ```
