@@ -38,17 +38,6 @@ composer require "laravel/installer"
 ```
 
 Agora execute o composer na pasta do nr-challenge.
-Em seguida basta executar o artisan com o comando:
-
-```
-php artisan serve
-```
-
-Por fim é necessário fazer o dump-autoload:
-
-```
-composer dump-autoload
-```
 
 Após isso o ambiente já está configurado e o sistema funcional.
 
