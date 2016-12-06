@@ -42,7 +42,7 @@ Em seguida basta executar o artisan com o comando:
 php artisan serve
 ```
 
-Por fim é necessário fazer o auto-dump:
+Por fim é necessário fazer o dump-autoload:
 
 ```
 composer dump-autoload
